@@ -59,6 +59,8 @@ java -jar MDT_Lite.jar
 
 # Images <a name = "images"></a>
 
+## Note: your verion of MDT_Lite may be different to the file in the images below
+
 <img src="https://i.imgur.com/78FXJtS.png" alt="Project image1" width="1000" height="100">
 
 Easily run the program with the command above.
