@@ -46,7 +46,7 @@ IMPORTANT: You must have Java installed onto the computers you want to use this 
 Please note, you may have to compile the project yourself if your version of java wont run it.
 If you have any issues running MDT please open a suport tidcket [here](https://github.com/JamesWRC/MDT_Lite/issues)
 
-1. Download the 'MDT_Lite.jar' file above
+1. Download the 'MDT_Lite.jar' file above. All versions are found [here](https://github.com/JamesWRC/MDT_Lite/tree/master/releases)
 2. Open a command prompt, go to where you saved the 'MDT_Lite.jar' file
 3. run the following command:
 
