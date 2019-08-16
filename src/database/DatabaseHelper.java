@@ -17,7 +17,7 @@ import model.Country;
  *
  */
 public class DatabaseHelper {
-	private final static boolean DATABASE_IN_PRODUCTION = true;
+	private final static boolean DATABASE_IN_PRODUCTION = false; //false for testing and for MDT_Lite
 	private String databasePath = "jdbc:sqlite::resource:db/MBC.db"; // Database driver to open the database.
 	private final static String TABLE_NAME = "MalariaRatesByCountry"; // Table name used.
 
