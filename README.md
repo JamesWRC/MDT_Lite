@@ -44,11 +44,11 @@ Sometimes you may get either a Country Name or Country Code of where the patient
 
 IMPORTANT: You must have Java installed onto the computers you want to use this program on. You can get the latest java [here](https://www.java.com/en/download/).
 Please note, you may have to compile the project yourself if your version of java wont run it.
-If you have any issues running MDT please open a suport tidcket [here](https://github.com/JamesWRC/MDT_Lite/issues)
+If you have any issues running MDT please open a suport ticket [here](https://github.com/JamesWRC/MDT_Lite/issues)
 
 1. Download the 'MDT_Lite.jar' file above. All versions are found [here](https://github.com/JamesWRC/MDT_Lite/tree/master/releases)
 2. Open a command prompt, go to where you saved the 'MDT_Lite.jar' file
-3. run the following command:
+3. Run the following command:
 
 ```
 java -jar MDT_Lite.jar
