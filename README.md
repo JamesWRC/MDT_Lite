@@ -28,6 +28,8 @@
 - [Why Use This Tool?](#why_use_this_tool)
 - [How to install and use](#how_to_use)
 - [Images](#images)
+- [Known bugs](#known_bugs)
+- [Planned features](#planned_features)
 
 # Why Use This Tool <a name = "why_use_this_tool"></a>
 
@@ -75,3 +77,12 @@ Use either a country code like 'AU' or a country name like 'Australia'. Note: Ca
 <img src="https://i.imgur.com/q0k3xYX.png" alt="Project image3" width="800" height="450">
 
 Countries can have notes that show when the country is selected. These notes can easily be changed or modified. (EDITING OR ADDING NOTES TO A COUNTRY IS A PLANNED FEATURE AND CAN NOT BE MODIFIED AT THIS TIME.)
+
+# Known Bugs<a name = "known_bugs"></a>
+
+- None :)
+
+# Planned Features<a name = "planned_features"></a>
+
+- The ability to edit notes for a country.
+- Change this readme.md for betetr understand between the GUI version and this CLI version.
